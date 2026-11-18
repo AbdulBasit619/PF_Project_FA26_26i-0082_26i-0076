@@ -1,0 +1,21 @@
+# CMake build files
+build/
+cmake-build-*/
+
+# Compiler-generated files
+*.o
+*.obj
+*.exe
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
